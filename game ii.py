@@ -6,6 +6,7 @@ from ii_main import nero1, nero2
 import os
 import pickle
 import matplotlib.pyplot as plt
+import random
 
 
 def sigm(a):
